@@ -50,4 +50,4 @@ ___
 ___
 ## <b>Summary</b>
 
-The randomoversampling, SMOTE, ClusterCentoids, and SMOTEENN did not 
+The randomoversampling, SMOTE, ClusterCentoids, and SMOTEENN did not perform well enough for a credit risk environment. The undersampling, oversampling and a combination all performed between 55%-66%. This is too low and inconsistent to be used. The Balance Random Forest Classifier could be usable, running at a Balance Accuracy Score of 79%. The best Classifier would be the Easy Ensemble Adaboost classifier, running with a balance score of 93% and 0.99 precision.
