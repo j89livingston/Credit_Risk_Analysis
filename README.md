@@ -1,5 +1,7 @@
 # Credit_Risk_Analysis
 
+![https://github.com/jvera01/-Credit_Risk_Analysis-/raw/main/Resources/B1.PNG](https://github.com/jvera01/-Credit_Risk_Analysis-/raw/main/Resources/B1.PNG)
+
 ## <b>Project Overview</b>
 We were hired by a peer-to-peer lending service company called LendingClub to oversample data using their credit card dataset. We will oversample the data using RandomOverSampler and SMOTE algorithms, undersample using ClusterCentroids, and a combinational approach of under and over sampling using the SMOTEENN algorithm. Using two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
 ___
